@@ -6,8 +6,7 @@ A = 0
 operator = ""
 
 splash_root = Tk()
-# canvas = Canvas(splash_root,width=100,height=300)
-# canvas.pack()
+
 
 img = PhotoImage(file='1.png')
 Label(splash_root,image=img, anchor= CENTER).pack()
