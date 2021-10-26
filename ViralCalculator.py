@@ -33,6 +33,7 @@ def ross():
         ans.set(val)
 
     def btn_2_is_clicked():
+    exit()    
         global val
         val = val + "2"
         ans.set(val)
