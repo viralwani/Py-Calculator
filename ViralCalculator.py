@@ -5,7 +5,6 @@ val = ""
 A = 0
 operator = ""
 
-splash_root = Tk()
 
 
 img = PhotoImage(file='1.png')
@@ -300,5 +299,5 @@ def ross():
 
 
     root.mainloop()
-splash_root.after(1500,ross)
+
 mainloop()
