@@ -6,6 +6,7 @@ A = 0
 operator = ""
 
 flag=True
+myVal=''
 
 img = PhotoImage(file='1.png')
 Label(splash_root,image=img, anchor= CENTER).pack()
