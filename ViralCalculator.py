@@ -5,7 +5,7 @@ val = ""
 A = 0
 operator = ""
 
-
+flag=True
 
 img = PhotoImage(file='1.png')
 Label(splash_root,image=img, anchor= CENTER).pack()
