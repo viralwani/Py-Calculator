@@ -4,7 +4,7 @@ import math
 val = ""
 A = 0
 operator = ""
-
+myPage=""
 flag=True
 
 img = PhotoImage(file='1.png')
